@@ -66,4 +66,10 @@ import seaborn as sns  #Python library for Visualization
 from sklearn.cluster import KMeans
 wcss=[]
 ```
-    
+```
+
+```
+
+## Screenshots
+
+![App Screenshot](./download.png)
